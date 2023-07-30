@@ -11,19 +11,15 @@ Application to create, edit and delete notes, the objective of the application i
 
 ## Demo
 <p align="center">
-  <img src="https://github.com/DonaldoGalloso/Gamelibrary/blob/main/README/LOGIN.png">
+  <img src="https://github.com/DonaldoGalloso/NotasApp/blob/main/README/notasGrid.png">
 </p>
 
 <p align="center">
-  <img src="https://github.com/DonaldoGalloso/Gamelibrary/blob/main/README/GAMESGRID.png">
+  <img src="https://github.com/DonaldoGalloso/NotasApp/blob/main/README/CrearNota.png">
 </p>
 
 <p align="center">
-  <img src="https://github.com/DonaldoGalloso/Gamelibrary/blob/main/README/EDITGAME.png">
-</p>
-
- <p align="center">
-  <img src="https://github.com/DonaldoGalloso/Gamelibrary/blob/main/README/AddGame.png">
+  <img src="https://github.com/DonaldoGalloso/NotasApp/blob/main/README/EditarNota.png">
 </p>
 
 
